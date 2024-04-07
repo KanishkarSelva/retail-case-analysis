@@ -1,4 +1,6 @@
-# Retail Inventory Analysis by Kanishkar Selvakumar
+# My Base of Analysis
+
+## Retail Inventory Analysis by Kanishkar Selvakumar
 
 ## Overview
 This comprehensive retail inventory analysis is designed to uncover insights into sales trends, customer satisfaction, and inventory management within a retail context. Leveraging SQL queries for data cleaning and analysis, this project explores various aspects of retail operations, from sales volume variability to the effectiveness of discount strategies.
