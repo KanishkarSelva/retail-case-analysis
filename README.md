@@ -1,4 +1,5 @@
-# Business Case Analysis of Biggest General Merchandise Retailer In US
+# Data Analysis Project: “Retail Inventory”
+
 
 ## Disclaimer
 
