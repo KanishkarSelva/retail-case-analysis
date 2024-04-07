@@ -89,7 +89,7 @@ FROM `retail_store.inventory`;
 
 ### Screenshot
 
-![](images/1)
+![](images/1.png)
 
 
 ### Insights
@@ -130,7 +130,7 @@ GROUP BY `Product_Category`;
 ```
  ### Screenshot
 
-![](images/2)
+![](images/2.png)
 
 ### Insights:
 
