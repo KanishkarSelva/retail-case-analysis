@@ -567,6 +567,7 @@ GROUP BY `Month_Year`, `Product_Category`;
 - **Performance Review:** Investigate periods of low turnover to identify potential issues such as overstocking or waning demand, and consider promotions or discounts to move excess inventory.
 
 - **Forecasting Improvements:** Incorporate turnover ratio trends into sales forecasting models to improve the accuracy of future inventory needs.
+
 ---
 
 # **Disclaimer and Limitations**
@@ -582,3 +583,5 @@ This analysis is conducted based on data provided to us up to the point of this 
 ---
 
 ## Thank you!
+
+---
